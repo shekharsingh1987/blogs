@@ -12,8 +12,9 @@ For example we get the mail amd machine automatically identifies whether its spa
 
 
 Theoretically there are two ways in which machine learns:
+
  1. Supervised learning
  2. Un-Supervised learning
  
- I will explain these two type of learning mechanism in my upcoming blogs. Please mail me `shekharsingh_1987@yahoo.com` to join the conversation.
+I will explain these two type of learning mechanism in my upcoming blogs. Please mail me `shekharsingh_1987@yahoo.com` to join the conversation.
   
