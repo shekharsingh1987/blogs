@@ -6,7 +6,7 @@ Today we are in era where we are looking forward to write less code as possible 
 For example we get the mail amd machine automatically identifies whether its spam or real content. It evolves over the period and learns based on your activities. So the performace(P) of any action(T) is proportional to the experience(E). Thus more the training data more accurate the result. Hence mathematically we represent machine learning like below.
 
  ```
-                                    P = E + T
+                                    P = E + T;
                                       where p improves as per experience.
  ```
 
