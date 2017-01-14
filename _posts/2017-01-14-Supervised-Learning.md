@@ -4,10 +4,10 @@ As it is clear by name,supervised learning is a type in which machine has got so
 
 For example, i have an agrigulture farm and i have past data which says Y ton of paddy cultivated on X sq.ft land like shown below
 
-## Example 1
+**Example 1**
 
 Land(in Sq.ft)|Paddy(in tons)
------------------------------
+--------------|---------------
 2000|0.5
 20050|12
 1600|0.3
